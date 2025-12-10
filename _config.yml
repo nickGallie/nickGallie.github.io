@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: Nick's homepage
-description: Hi there! Here's a selection of the programming and mathematics projects I have worked on.
+title: "Nick's homepage"
+description: "Hi there! Here's a selection of the programming and mathematics projects I have worked on."
 
 header_pages:
   - index.md
