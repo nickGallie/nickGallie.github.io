@@ -3,5 +3,6 @@ title: Nick's homepage
 description: Hi there! Here's a selection of the programming and mathematics projects I have worked on.
 
 header_pages:
+  - index.md
   - projects.md
   - about.md
