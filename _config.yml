@@ -1,7 +1,4 @@
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: jekyll-theme-yat
+theme: minima
 title: "Nick's homepage"
 description: "Hi there! Here's a selection of the programming and mathematics projects I have worked on."
 
