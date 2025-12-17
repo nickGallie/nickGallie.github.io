@@ -6,4 +6,4 @@ permalink: /about
 
 # About me
 
-I enjoy programming.
+I enjoy programming. Here is my portfolio.
