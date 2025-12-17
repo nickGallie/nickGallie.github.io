@@ -7,7 +7,7 @@ title: Wright-Fisher Classifierrrrrrrr
 
 Here I classify some SDEs.
 
-<details>
+<details markdown="1">
 <summary><strong>Show code</strong></summary>
 
 ```python
