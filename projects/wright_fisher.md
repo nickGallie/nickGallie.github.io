@@ -16,5 +16,6 @@ import numpy as np
 
 def mle(data):
     return np.mean(data)
+```
 
 </details>
