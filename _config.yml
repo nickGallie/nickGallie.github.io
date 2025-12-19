@@ -2,6 +2,11 @@ theme: minima
 title: "Nick's homepage"
 description: "Hi there! Here's a selection of the programming and mathematics projects I have worked on."
 
+markdown: kramdown
+highlighter: rouge
+rouge:
+  theme: monokai
+
 header_pages:
   - index.md
   - projects.md
